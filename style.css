@@ -1,1 +1,26 @@
-body { font-family: Arial, sans-serif; margin: 2rem; }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f8f6;
+  color: #222;
+}
+
+header {
+  background-color: #2e7d32;
+  color: white;
+  padding: 1.5rem 2rem;
+}
+
+main {
+  padding: 1rem 2rem;
+}
+
+li {
+  margin-bottom: 0.8rem;
+}
+
+footer {
+  background-color: #e8f5e9;
+  padding: 1rem 2rem;
+  text-align: center;
+}
