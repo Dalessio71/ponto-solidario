@@ -21,7 +21,7 @@ HTML, CSS, Node.js (htmlhint, para validação), GitHub, GitHub Actions e GitHub
 Abra o `index.html` no navegador. Para validar o HTML: `npm install` e `npm test`.
 
 ## Como usamos o GitHub
-- **Project:** [link do Project]. 1 história (#1) e 2 tarefas (#2, #3), com responsável e status Todo → In Progress → Done.
+- **Project:** [(https://github.com/Dalessio71/ponto-solidario/pulls?q=is%3Aclosed)]. 1 história (#1) e 2 tarefas (#2, #3), com responsável e status Todo → In Progress → Done.
 - **Issues:** #1 (história), #2 (personalizar página), #3 (workflow de build e publicação).
 - **Branches:** `main`, `feature/personalizar-pagina`, `feature/workflow-ci`, `fix/corrige-html`, `feature/deploy-pages`, `feature/novo-ponto-apoio`.
 - **Pull Requests:** #4, #5, #6, #7 e [o da alteração final], todos com merge.
@@ -43,4 +43,4 @@ Os prints estão na documentação enviada
 - Pull Request e deploy final: `07`, `08`
 - Histórico, branches e estrutura: `10`, `11`, `12`
 
-Links: [Issues](https://github.com/Dalessio71/ponto-solidario/issues) · [Pull requests](https://github.com/Dalessio71/ponto-solidario/pulls) · [Actions](https://github.com/Dalessio71/ponto-solidario/actions)
+Links: [Issues](https://github.com/Dalessio71/ponto-solidario/issues) · [Pull requests](https://github.com/Dalessio71/ponto-solidario/pulls?q=is%3Aclosed) · [Actions](https://github.com/Dalessio71/ponto-solidario/actions)
