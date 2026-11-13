@@ -43,4 +43,4 @@ Os prints estão na documentação enviada
 - Pull Request e deploy final: `07`, `08`
 - Histórico, branches e estrutura: `10`, `11`, `12`
 
-Links: [Issues](https://github.com/Dalessio71/ponto-solidario/issues) · [Pull requests](https://github.com/Dalessio71/ponto-solidario/pulls?q=is%3Aclosed) · [Actions](https://github.com/Dalessio71/ponto-solidario/actions)
+Links: [Issues](https://github.com/Dalessio71/ponto-solidario/issues?q=is%3Aissue) · [Pull requests](https://github.com/Dalessio71/ponto-solidario/pulls?q=is%3Aclosed) · [Actions](https://github.com/Dalessio71/ponto-solidario/actions)
