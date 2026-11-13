@@ -36,7 +36,7 @@ Abra o `index.html` no navegador. Para validar o HTML: `npm install` e `npm test
 - **Observação:** tentamos primeiro o Azure Static Web Apps, mas a assinatura Azure for Students bloqueou a criação (erro `RequestDisallowedByAzure`). Por isso migramos para o GitHub Pages.
 
 ## Evidências
-Os prints estão na pasta [`evidencias/`](./evidencias):
+Os prints estão na documentação enviada
 - Project e status: `01`, `02`, `03`
 - CI com erro e correção: `04`, `05`
 - Site antes e depois: `06`, `09`
