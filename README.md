@@ -24,7 +24,7 @@ Abra o `index.html` no navegador. Para validar o HTML: `npm install` e `npm test
 - **Project:** [(https://github.com/Dalessio71/ponto-solidario/pulls?q=is%3Aclosed)]. 1 história (#1) e 2 tarefas (#2, #3), com responsável e status Todo → In Progress → Done.
 - **Issues:** #1 (história), #2 (personalizar página), #3 (workflow de build e publicação).
 - **Branches:** `main`, `feature/personalizar-pagina`, `feature/workflow-ci`, `fix/corrige-html`, `feature/deploy-pages`, `feature/novo-ponto-apoio`.
-- **Pull Requests:** #4, #5, #6, #7 e [o da alteração final], todos com merge.
+- **Pull Requests:** #4, #5, #6, #7 e [https://github.com/Dalessio71/ponto-solidario/pulls?q=is%3Aclosed], todos com merge.
 
 ## Workflows (GitHub Actions)
 - **CI (`.github/workflows/ci.yml`):** roda em push e pull request para a `main`. Baixa o código, instala o Node.js 20, instala as dependências e valida o HTML com o htmlhint.
